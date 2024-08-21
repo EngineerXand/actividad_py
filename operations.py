@@ -7,3 +7,15 @@ def multiplication():
 
 
 multiplication()
+"""hello word
+
+a = 5
+b = 3
+resultado = a * b
+
+print("El resultado de la multiplicación es:", resultado)
+
+
+
+
+"""
